@@ -23,5 +23,5 @@ Run: streamlit run app.py
   Meta,           META,             NASDAQ
   Netflix,        NFLX,             NASDAQ
 
-# You can find all code at
+# You can find all the stock market code at the following link:
 https://finance.yahoo.com/quote/GOOG/
