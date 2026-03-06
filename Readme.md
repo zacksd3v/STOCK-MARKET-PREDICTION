@@ -24,4 +24,4 @@ Run: streamlit run app.py
   Netflix,        NFLX,             NASDAQ
 
 # You can find all the stock market code at the following link:
-https://finance.yahoo.com/quote/GOOG/
+https://finance.yahoo.com/
