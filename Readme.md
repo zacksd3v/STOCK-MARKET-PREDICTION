@@ -13,12 +13,16 @@
 
 
 # Here are Some Test Stock Code:
-# Sunan Kamfani,Ticker Symbol,Kasuwa (Exchange)
-# Apple Inc.,AAPL,NASDAQ
-# Microsoft,MSFT,NASDAQ
-# Google (Alphabet),GOOGL / GOOG,NASDAQ
-# Amazon,AMZN,NASDAQ
-# Nvidia,NVDA,NASDAQ
-# Tesla,TSLA,NASDAQ
-# Meta (Facebook),META,NASDAQ
-# Netflix,NFLX,NASDAQ
+
+# Sunan Kamfani,  Ticker Symbol,    Kasuwa (Exchange)
+# Apple Inc.,     AAPL,             NASDAQ
+# Microsoft,      MSFT,             NASDAQ
+# Google,         GOOGL / GOOG,     NASDAQ
+# Amazon,         AMZN,             NASDAQ
+# Nvidia,         NVDA,             NASDAQ
+# Tesla,          TSLA,             NASDAQ
+# Meta,           META,             NASDAQ
+# Netflix,        NFLX,             NASDAQ
+
+# You can find all code at
+# https://finance.yahoo.com/quote/GOOG/
